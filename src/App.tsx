@@ -1,8 +1,5 @@
 const App = () => {
+  return <div>Parent Component</div>;
+};
 
-  return (
-    <div>Parent Component</div>
-  )
-}
-
-export default App
+export default App;
